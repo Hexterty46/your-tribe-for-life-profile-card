@@ -1,9 +1,17 @@
 <script>
+    import background from '$lib/assets/images/background.png'
+
     let { data } = $props()
     const person = data.person
+    
 </script>
 
+<main>
+    <section>
+        <h1>fjkhsdjh</h1>
+    </section>
+</main>
 
+<style>
 
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+</style>
